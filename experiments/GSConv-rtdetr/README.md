@@ -6,4 +6,4 @@ For wandb's visial report: [YirenQIU's Wandb](https://api.wandb.ai/links/qianlia
 
 For tensorboard's visial report, just load the offline report event inside this folder.
 
-For the weight file, refer to the [YirenQIU's Google Drive]()
+For the weight file, refer to the [YirenQIU's Google Drive](https://drive.google.com/file/d/1Ql0W09ASIqzCKRLYsFdUs3un8nhsd2ts/view?usp=sharing) 
