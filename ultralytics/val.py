@@ -8,7 +8,7 @@ if __name__ == '__main__':
               split='test',
               imgsz=640,
               batch=4,
-            #   save_json=True, # if you need to cal coco metrice
+              save_json=True, 
               project='runs/val',
               name='GSConv-rtdetr',
               )
