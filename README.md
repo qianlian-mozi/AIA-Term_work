@@ -10,3 +10,5 @@ We provide the following reports:
 - Data report on the modified model --- GSconv-rtdetr on visdrone 2024.11.28
 
 The repository will keep in updating in the future.
+
+2024-12-19： During the defense week, I learnt a lot of technology about making a awesome slide, so I remake a great interesting slides for the happy presentation, this slides created by [canvas](https://www.canva.com/design/DAGZwT6bGmk/voKbcECjiyeHO7VjHVNgYA/edit?utm_content=DAGZwT6bGmk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), please read that online to get the best reading experience.
